@@ -1,7 +1,7 @@
 export default function Register() {
     return (
         <div className='min-h-screen px-10 flex items-center bg-gray-200'>
-            <div className='container max-w-lg mx-auto h-fit px-5 py-8 bg-white rounded-xl shadow-md shadow-gray3-00'>
+            <div className='container max-w-lg mx-auto h-fit p-5 bg-white rounded-xl shadow-md shadow-gray3-00'>
                 <div className='mb-3'>
                     <h3 className='block text-5xl font-bold text-blue-600 mb-1'>Criar conta</h3>
                     <h3>Ja tem uma conta? <a href="/login">Clique aqui</a></h3>
